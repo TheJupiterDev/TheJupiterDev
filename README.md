@@ -11,5 +11,6 @@ Languages:
 - Javascript sort of
 - C# if I had a gun against my head
 - Scratch if I'm bored
-- French I can read & write
+- French I can read & write about 3 words:
+- - Je suis fatigue!
 - ASL but not really
