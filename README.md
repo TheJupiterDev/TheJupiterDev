@@ -4,6 +4,7 @@
 ### Why Hello There!
 I'm Jupiter Dev, and I've been programming since I was 8!
 Languages:
+- Learning rust
 - Python always
 - HTML/CSS if I need to
 - Java if I am making a Minecraft Mod
