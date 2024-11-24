@@ -1,5 +1,5 @@
 ## Jupiter Dev
-### Gamer, Reader, Programmer, Developer, Nerd
+### Gamer, Reader, Programmer, Developer, Nerd, Game Developer
 
 ### Why Hello There!
 I'm Jupiter Dev, and I've been programming since I was 8!
