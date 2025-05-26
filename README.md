@@ -10,7 +10,7 @@ I love working with Python and Qt and building Desktop apps - but I'm also makin
 - 📫 How to reach me: [YouTube](https://www.youtube.com/@TheJupiterDev)
 
 ## 💼 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheJupiterDev&show_icons=true&theme=default)
 
 ---
 
