@@ -5,6 +5,7 @@ I'm a developer building silly little tools, usually because nobody else has.
 I love working with Python and Qt and building Desktop apps - but I'm also making a secret thing 👀.
 
 ---
+
 ## Cool Projects
 
 ### mDirt
@@ -19,6 +20,8 @@ Created over the span of 1 week (Yes, it took me 7 days. No, I don't want to tal
 ### SpyglassJSON
 A horribly named, and equally horribly coded compiler for `.mcdoc`. It converts any `.mcdoc` file, and its references, into standard JSON Schemas.
 Sometimes.
+
+---
 
 - 🌱 Currently learning: Java & Rust
 - 🛠️ Tech stack: Python - PySide6 - Django
