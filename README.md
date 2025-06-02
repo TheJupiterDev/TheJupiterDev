@@ -17,9 +17,6 @@ KoreUI is a dynamic UI builder. It inputs a standard JSON Schema and returns wit
 Created over the span of 1 week (Yes, it took me 7 days. No, I don't want to tallk about it), it is a bit of a mess, but it works.
 ###### Sometimes.
 
-### mcdoc-py
-A partial port of mcdoc into Python
-
 ---
 
 - 🌱 Currently learning: Java & Rust
