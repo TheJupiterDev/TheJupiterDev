@@ -8,6 +8,9 @@ I love working with Python and Qt and building Desktop apps - but I'm also makin
 
 ## Cool Projects
 
+### Cohesion
+Cohesion is a Minecraft Fabric Mod that aims to fix the glaring issues caused by Minecraft's segmented development history by adding a little *cohesion* to the game.
+
 ### mDirt
 mDirt is my magnum opus. Is it depressing that something so useless is my most important & largest project? Maybe.
 mDirt is a datapack creator, letting the user use a simple UI to create datapacks- no code required!
@@ -19,7 +22,7 @@ Created over the span of 1 week (Yes, it took me 7 days. No, I don't want to tal
 
 ---
 
-- 🌱 Currently learning: Java & Rust
+- 🌱 Currently learning: Java & Minecraft Modding
 - 🛠️ Tech stack: Python - PySide6 - Django
 - 🔭 Projects: [mDirt](https://github.com/Faith-and-Code-Technologies/mDirt) - [KoreUI](https://github.com/TheJupiterDev/KoreUI)
 - 📫 How to reach me: [YouTube](https://www.youtube.com/@TheJupiterDev)
