@@ -22,8 +22,8 @@ Created over the span of 1 week (Yes, it took me 7 days. No, I don't want to tal
 
 ---
 
-- 🌱 Currently learning: Java & Minecraft Modding
-- 🛠️ Tech stack: Python - PySide6 - Django
+- 🌱 Currently learning: Rust
+- 🛠️ Tech stack: Rust
 - 🔭 Projects: [mDirt](https://github.com/Faith-and-Code-Technologies/mDirt) - [KoreUI](https://github.com/TheJupiterDev/KoreUI)
 - 📫 How to reach me: [YouTube](https://www.youtube.com/@TheJupiterDev)
 
